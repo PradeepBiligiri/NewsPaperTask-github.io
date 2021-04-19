@@ -1,0 +1,32 @@
+.container {
+  background-color: white;
+}
+.row {
+  margin: auto;
+}
+.tab {
+  text-align: right;
+}
+.rule {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+h1 {
+  font-size: 91px;
+  text-align: center;
+}
+.edit {
+  text-align: justify;
+}
+.text {
+  text-align: justify;
+}
+.para {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: rgb(114, 18, 18);
+  font-size: 20px;
+  text-align: center;
+}
